@@ -1,0 +1,39 @@
+
+body{
+    font-family:Arial, Helvetica;
+    background-color: dimgrey;
+ }
+ 
+ 
+.menu{
+        list-style: none;
+        padding: 0%;
+        background-color: maroon;
+        width: 70%;
+        max-width: 900px;
+        margin: auto;
+}
+
+.menu li a{
+        text-decoration: none;
+        color:antiquewhite;
+        padding: 30px;
+        display: block;
+}
+.image-menu{ 
+        position: relative;
+        width:100%;
+}
+
+.menu li{
+        display: inline-block;
+        text-align: center;
+
+
+}
+.menu li a:hover{
+        background-color: rgb(4, 4, 5);
+
+
+
+}
